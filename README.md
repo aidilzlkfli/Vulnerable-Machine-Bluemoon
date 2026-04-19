@@ -1,3 +1,18 @@
+<h1>Report: Vulnerable Machine - Bluemoon</h1>
+
+<p>
+  <strong>Project Description:</strong><br />
+  This report documents a comprehensive penetration testing engagement against the target machine <strong>"Bluemoon"</strong>. 
+  The objective was to enumerate the target, identify vulnerabilities, gain initial access, escalate privileges, and ultimately capture 
+  the root flag. The attack methodology followed a structured approach including reconnaissance, scanning, exploitation, post-exploitation, 
+  and privilege escalation. Key techniques used include ARP discovery, port scanning with Nmap, directory brute-forcing with Dirb, 
+  credential extraction via QR code decoding, password brute-forcing with Hydra, SSH access, sudo abuse, SUID binary enumeration, 
+  and Docker container escape to achieve root-level access. This walkthrough demonstrates real-world attack paths and serves as 
+  a learning resource for ethical hacking and cybersecurity practices.
+</p>
+
+<br />
+
 <table border="0" cellpadding="10">
   <thead>
     <tr>
